@@ -13,6 +13,9 @@ Mobile UI prototypes
 ## Contents
 
 - [Interface](#Interface)
+- [Horti](#horti)
+- [Yapp](#yapp)
+
 
 ---
 
@@ -74,13 +77,13 @@ Two other projects were created using NimbleKit with html/css/js for iPad, they 
 
 - This is for a Fintech, under development too. The first sreen is locked by Rhythm password that can be found in https://github.com/jonasgozdecki/rhythm_password
 
-[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp1.jpg)]()
+[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp1.png)]()
 
-[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp2.jpg)]()
+[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp2.png)]()
 
-[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp2_1.jpg)]()
+[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp2_1.png)]()
 
-[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp3.jpg)]()
+[![Yapp](https://github.com/jonasgozdecki/mobileUI/blob/master/yapp3.png)]()
 
 
 
